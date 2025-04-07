@@ -18,9 +18,9 @@ Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인�
 
 ## 🛠 IDE 설정
 
-- [AndroidStudio](ide/AndroidStudio/index.md)
-  - [Android_프로젝트_Gradle_설정_파일_정리](Android_프로젝트_Gradle_설정_파일_정리.md)
-  - [Android_프로젝트_Java 17_적용을_위한_Gradle_설정_정리](Android_프로젝트_Java%2017_적용을_위한_Gradle_설정_정리.md)
+- AndroidStudio
+  - [Android_프로젝트_Gradle_설정_파일_정리](ide/AndroidStudio/Android_프로젝트_Gradle_설정_파일_정리.md)
+  - [Android_프로젝트_Java 17_적용을_위한_Gradle_설정_정리](ide/AndroidStudio/Android_프로젝트_Java%2017_적용을_위한_Gradle_설정_정리.md)
 
 ---
 
@@ -40,15 +40,15 @@ Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인�
 
 - [wfms - 프로젝트 중심 시설물 조사 시스템](projects/wfms/index.md)
   - [시나리오별 프로젝트 구성 예시 - 프로젝트 중심 시설물 조사 시스템 설계 기반](projects/wfms/시나리오별_프로젝트_구성_예시_프로젝트_중심_시설물_조사_시스템_설계_기반.md)
-  - [프로젝트_중심_시설물_조사_시스템_설계](프로젝트_중심_시설물_조사_시스템_설계.md)
-  - [프로젝트_중심_시설물_조사_시스템_장단점_비교_정리](프로젝트_중심_시설물_조사_시스템_장단점_비교_정리.md)
+  - [프로젝트_중심_시설물_조사_시스템_설계](projects/wfms/프로젝트_중심_시설물_조사_시스템_설계.md)
+  - [프로젝트_중심_시설물_조사_시스템_장단점_비교_정리](projects/wfms/프로젝트_중심_시설물_조사_시스템_장단점_비교_정리.md)
 
 ---
 
 ## 🔧 Tools
 
-- [git](tools/git/index.md)
-  - [Git_기본_초기_설정_설치_후_필수_환경_구성](Git_기본_초기_설정_설치_후_필수_환경_구성.md)
+- git
+  - [Git_기본_초기_설정_설치_후_필수_환경_구성](tools/git/Git_기본_초기_설정_설치_후_필수_환경_구성.md)
 
 
 ---
