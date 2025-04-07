@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/flutter/Flutter 기본 앱 구조 - main.dart 분석 및 시각화(images_01).md",
+                "file": "framework/flutter/Flutter_기본_앱_구조_main.dart_분석_및_시각화(images_01).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flutter 기본 앱 구조 - main.dart 분석 및 시각화(images_01)"
+              "title": "Flutter_기본_앱_구조_main.dart_분석_및_시각화(images_01)"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/wfms/시나리오별_프로젝트_구성_예시_프로젝트_중심_시설물_조사_시스템_설계_기반.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "시나리오별_프로젝트_구성_예시_프로젝트_중심_시설물_조사_시스템_설계_기반"
+              "title": "index"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/wfms/시나리오별_프로젝트_구성_예시_프로젝트_중심_시설물_조사_시스템_설계_기반.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 시나리오별_프로젝트_구성_예시_프로젝트_중심_시설물_조사_시스템_설계_기반"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/wfms/시나리오별_프로젝트_구성_예시_프로젝트_중심_시설물_조사_시스템_설계_기반.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 시나리오별_프로젝트_구성_예시_프로젝트_중심_시설물_조사_시스템_설계_기반"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/wfms/시나리오별_프로젝트_구성_예시_프로젝트_중심_시설물_조사_시스템_설계_기반.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 시나리오별_프로젝트_구성_예시_프로젝트_중심_시설물_조사_시스템_설계_기반"
+              "title": "Outline of index"
             }
           }
         ]
@@ -185,13 +185,15 @@
   },
   "active": "77fa64f05bd27be4",
   "lastOpenFiles": [
-    "index.md",
+    "tools/git/Git_기본_초기_설정_설치_후_필수_환경_구성.md",
     "projects/wfms/시나리오별_프로젝트_구성_예시_프로젝트_중심_시설물_조사_시스템_설계_기반.md",
-    "projects/wfms/프로젝트 중심 시설물 조사 시스템 장단점 비교 정리.md",
-    "projects/wfms/프로젝트 중심 시설물 조사 시스템 설계.md",
-    "ide/AndroidStudio/Android 프로젝트 Java 17 적용을 위한 Gradle 설정 정리.md",
-    "ide/AndroidStudio/Android 프로젝트 Gradle 설정 파일 정리.md",
-    "framework/flutter/Flutter 기본 앱 구조 - main.dart 분석 및 시각화(images_01).md",
+    "index.md",
+    "ide/AndroidStudio/Android_프로젝트_Java 17_적용을_위한_Gradle_설정_정리.md",
+    "ide/AndroidStudio/Android_프로젝트_Gradle_설정_파일_정리.md",
+    "framework/flutter/Flutter_기본_앱_구조_main.dart_분석_및_시각화(images_01).md",
+    "framework/flutter/images/Flutter_기본_앱_구조_main.dart_분석_및_시각화(images_01).md",
+    "projects/wfms/프로젝트_중심_시설물_조사_시스템_장단점_비교_정리.md",
+    "projects/wfms/프로젝트_중심_시설물_조사_시스템_설계.md",
     "framework/flutter/index.md",
     "framework/flutter.md",
     "projects/projects.md",
@@ -204,7 +206,6 @@
     "languages/languages.md",
     "tools/tools.md",
     "ide/AndroidStudio/AndroidStudio.md",
-    "tools/git/Git 기본 초기 설정 - 설치 후 필수 환경 구성.md",
     "Untitled.canvas",
     "framework.md",
     "index.kmd",
