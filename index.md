@@ -12,7 +12,7 @@ Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인�
 
 ## 🧱 Framework
 
-- [Flutter 기본 앱 구조 - main.dart 분석 및 시각화(images_01)](framework/flutter/Flutter_기본_앱_구조_main_dart_분석_및_시각화(images_01).md)
+- [Flutter 기본 앱 구조 - main.dart 분석 및 시각화(images_01)](Flutter_기본_앱_구조_main_dart_분석_및_시각화_images_01.md)
 
 ---
 
