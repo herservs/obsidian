@@ -12,7 +12,7 @@ Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인�
 
 ## 🧱 Framework
 
-- [Flutter 기본 앱 구조 - main.dart 분석 및 시각화(images_01)](framework/flutter/Flutter_기본_앱_구조_main.dart_분석_및_시각화(images_01).md)
+- [Flutter 기본 앱 구조 - main.dart 분석 및 시각화(images_01)](framework/flutter/Flutter_기본_앱_구조_main_dart_분석_및_시각화(images_01).md)
 
 ---
 
@@ -20,7 +20,7 @@ Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인�
 
 - AndroidStudio
   - [Android_프로젝트_Gradle_설정_파일_정리](ide/AndroidStudio/Android_프로젝트_Gradle_설정_파일_정리.md)
-  - [Android_프로젝트_Java 17_적용을_위한_Gradle_설정_정리](ide/AndroidStudio/Android_프로젝트_Java%2017_적용을_위한_Gradle_설정_정리.md)
+  - [Android_프로젝트_Java_17_적용을_위한_Gradle_설정_정리](Android_프로젝트_Java_17_적용을_위한_Gradle_설정_정리.md)
 
 ---
 
