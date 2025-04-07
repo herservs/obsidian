@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "projects/wfms/프로젝트 중심 시설물 조사 시스템 장단점 비교 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "프로젝트 중심 시설물 조사 시스템 장단점 비교 정리"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "projects/wfms/프로젝트 중심 시설물 조사 시스템 장단점 비교 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for 프로젝트 중심 시설물 조사 시스템 장단점 비교 정리"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "projects/wfms/프로젝트 중심 시설물 조사 시스템 장단점 비교 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from 프로젝트 중심 시설물 조사 시스템 장단점 비교 정리"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "projects/wfms/프로젝트 중심 시설물 조사 시스템 장단점 비교 정리.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 프로젝트 중심 시설물 조사 시스템 장단점 비교 정리"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "77fa64f05bd27be4",
   "lastOpenFiles": [
+    "projects/wfms/프로젝트 중심 시설물 조사 시스템 설계.md",
+    "projects/wfms/시나리오별 프로젝트 구성 예시 - 프로젝트 중심 시설물 조사 시스템 설계 기반.md",
+    "ide/AndroidStudio/Android 프로젝트 Java 17 적용을 위한 Gradle 설정 정리.md",
     "ide/AndroidStudio/Android 프로젝트 Gradle 설정 파일 정리.md",
     "index.md",
     "framework/flutter/Flutter 기본 앱 구조 - main.dart 분석 및 시각화(images_01).md",

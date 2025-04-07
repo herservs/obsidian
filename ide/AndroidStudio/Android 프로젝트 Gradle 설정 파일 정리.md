@@ -1,3 +1,8 @@
+---
+title: Android 프로젝트 Gradle 설정 파일 정리
+layout: default
+---
+
 # [개념명] Android 프로젝트 Gradle 설정 파일 정리
 
 ## 1. 개요

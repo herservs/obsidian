@@ -1,3 +1,8 @@
+---
+title: Android 프로젝트 Java 17 적용을 위한 Gradle 설정 정리
+layout: default
+---
+
 # [개념명] Android 프로젝트 Java 17 적용을 위한 Gradle 설정 정리
 
 ## 1. 개요
