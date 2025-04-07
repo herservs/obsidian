@@ -3,7 +3,7 @@ title: Obsidian Index
 layout: default
 ---
 
-# 📚 Obsidian Index(1)
+# 📚 Obsidian Index(2)
 
 Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인덱스 문서입니다.  
 각 항목은 해당 폴더의 대표 문서(`index.md`)로 연결됩니다.
@@ -12,7 +12,7 @@ Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인�
 
 ## 🧱 Framework
 
-- [Flutter 기본 앱 구조 - main.dart 분석 및 시각화_images_01](Flutter_기본_앱_구조_main_dart_분석_및_시각화_images_01.md)
+- [Flutter 기본 앱 구조 - main.dart 분석 및 시각화_images_01](framework/flutter/Flutter_기본_앱_구조_main_dart_분석_및_시각화_images_01.md)
 
 ---
 
