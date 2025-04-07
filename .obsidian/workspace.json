@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ide/AndroidStudio/AndroidStudio.md",
+                "file": "framework/flutter/Flutter 기본 앱 구조 - main.dart 분석 및 시각화(images_01).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AndroidStudio"
+              "title": "Flutter 기본 앱 구조 - main.dart 분석 및 시각화(images_01)"
+            }
+          },
+          {
+            "id": "77fa64f05bd27be4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index.md"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 572.5
+    "width": 679.5
   },
   "right": {
     "id": "f88fc949d05dee57",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ide/AndroidStudio/AndroidStudio.md",
+                "file": "index.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AndroidStudio"
+              "title": "Backlinks for index.md"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ide/AndroidStudio/AndroidStudio.md",
+                "file": "index.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AndroidStudio"
+              "title": "Outgoing links from index.md"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ide/AndroidStudio/AndroidStudio.md",
+                "file": "index.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AndroidStudio"
+              "title": "Outline of index.md"
             }
           }
         ]
@@ -168,22 +183,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47064a910c18b0c0",
+  "active": "77fa64f05bd27be4",
   "lastOpenFiles": [
-    "framework/spring/spring.md",
-    "framework/springboot/springboot.md",
-    "ide/AndroidStudio/AndroidStudio.md",
-    "framework/flutter/flutter.md",
     "framework/flutter/Flutter 기본 앱 구조 - main.dart 분석 및 시각화(images_01).md",
-    "framework/framework.md",
-    "framework/flutter/images/images.md",
+    "index.md.md",
+    "framework/flutter/index.md",
+    "framework/flutter.md",
     "projects/projects.md",
-    "tools/tools.md",
-    "ide/AndroidStudio/Android 프로젝트 Gradle 설정 파일 정리.md",
-    "languages/languages.md",
-    "tools/git/Git 기본 초기 설정 - 설치 후 필수 환경 구성.md",
+    "framework/spring/spring.md",
+    "framework/flutter/images/images.md",
+    "framework/flutter/flutter.md",
     "ide/ide.md",
-    "Untitled.md",
+    "framework/springboot/springboot.md",
+    "framework/framework.md",
+    "languages/languages.md",
+    "tools/tools.md",
+    "ide/AndroidStudio/AndroidStudio.md",
+    "ide/AndroidStudio/Android 프로젝트 Gradle 설정 파일 정리.md",
+    "tools/git/Git 기본 초기 설정 - 설치 후 필수 환경 구성.md",
     "index.md",
     "Untitled.canvas",
     "framework.md",
