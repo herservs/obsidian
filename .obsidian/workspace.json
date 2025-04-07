@@ -183,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48c69a350eb484da",
+  "active": "77fa64f05bd27be4",
   "lastOpenFiles": [
-    "framework/flutter/Flutter 기본 앱 구조 - main.dart 분석 및 시각화(images_01).md",
+    "ide/AndroidStudio/Android 프로젝트 Gradle 설정 파일 정리.md",
     "index.md",
+    "framework/flutter/Flutter 기본 앱 구조 - main.dart 분석 및 시각화(images_01).md",
     "framework/flutter/index.md",
     "framework/flutter.md",
     "projects/projects.md",
@@ -199,9 +200,7 @@
     "languages/languages.md",
     "tools/tools.md",
     "ide/AndroidStudio/AndroidStudio.md",
-    "ide/AndroidStudio/Android 프로젝트 Gradle 설정 파일 정리.md",
     "tools/git/Git 기본 초기 설정 - 설치 후 필수 환경 구성.md",
-    "index.md",
     "Untitled.canvas",
     "framework.md",
     "index.kmd",
