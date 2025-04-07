@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framework/framework.md",
+                "file": "ide/AndroidStudio/AndroidStudio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "framework"
+              "title": "AndroidStudio"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "framework/framework.md",
+                "file": "ide/AndroidStudio/AndroidStudio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for framework"
+              "title": "Backlinks for AndroidStudio"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "framework/framework.md",
+                "file": "ide/AndroidStudio/AndroidStudio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from framework"
+              "title": "Outgoing links from AndroidStudio"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "framework/framework.md",
+                "file": "ide/AndroidStudio/AndroidStudio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of framework"
+              "title": "Outline of AndroidStudio"
             }
           }
         ]
@@ -170,20 +170,20 @@
   },
   "active": "47064a910c18b0c0",
   "lastOpenFiles": [
-    "framework/framework.md",
+    "framework/spring/spring.md",
+    "framework/springboot/springboot.md",
+    "ide/AndroidStudio/AndroidStudio.md",
     "framework/flutter/flutter.md",
+    "framework/flutter/Flutter 기본 앱 구조 - main.dart 분석 및 시각화(images_01).md",
+    "framework/framework.md",
     "framework/flutter/images/images.md",
     "projects/projects.md",
     "tools/tools.md",
-    "framework/spring/spring.md",
     "ide/AndroidStudio/Android 프로젝트 Gradle 설정 파일 정리.md",
-    "ide/AndroidStudio/AndroidStudio.md",
     "languages/languages.md",
     "tools/git/Git 기본 초기 설정 - 설치 후 필수 환경 구성.md",
-    "framework/springboot/springboot.md",
     "ide/ide.md",
     "Untitled.md",
-    "framework/flutter/Flutter 기본 앱 구조 - main.dart 분석 및 시각화(images_01).md",
     "index.md",
     "Untitled.canvas",
     "framework.md",
