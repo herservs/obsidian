@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "tools/git/Git 기본 초기 설정 - 설치 후 필수 환경 구성.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Git 기본 초기 설정 - 설치 후 필수 환경 구성"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "tools/git/Git 기본 초기 설정 - 설치 후 필수 환경 구성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Git 기본 초기 설정 - 설치 후 필수 환경 구성"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "tools/git/Git 기본 초기 설정 - 설치 후 필수 환경 구성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Git 기본 초기 설정 - 설치 후 필수 환경 구성"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "tools/git/Git 기본 초기 설정 - 설치 후 필수 환경 구성.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Git 기본 초기 설정 - 설치 후 필수 환경 구성"
             }
           }
         ]
@@ -168,6 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48c69a350eb484da",
-  "lastOpenFiles": []
+  "active": "510e5f828a657f85",
+  "lastOpenFiles": [
+    "README.md",
+    "tools/git/Git 기본 초기 설정 - 설치 후 필수 환경 구성.md",
+    "tools/git",
+    "Untitled"
+  ]
 }
