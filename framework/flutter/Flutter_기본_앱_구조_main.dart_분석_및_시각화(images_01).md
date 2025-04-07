@@ -1,3 +1,8 @@
+---
+title: Flutter 기본 앱 구조 - main.dart 분석 및 시각화
+layout: default
+---
+
 # [개념명] Flutter 기본 앱 구조 - main.dart 분석 및 시각화
 
 ## 1. 개요
