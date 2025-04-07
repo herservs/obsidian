@@ -1,3 +1,8 @@
+---
+title: Obsidian Index
+layout: default
+---
+
 # 📚 Obsidian Index
 
 Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인덱스 문서입니다.  
