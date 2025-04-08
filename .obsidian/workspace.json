@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/wfms/CICD_쿠버네티스_통합_아키텍처.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CICD_쿠버네티스_통합_아키텍처"
+              "title": "index"
             }
           }
         ],
@@ -185,9 +185,9 @@
   },
   "active": "77fa64f05bd27be4",
   "lastOpenFiles": [
+    "projects/wfms/CICD_쿠버네티스_통합_아키텍처.md",
     "projects/wfms/Jenkins_Nexus_Docker_Kubernetes_비교_정리.md",
     "index.md",
-    "projects/wfms/CICD_쿠버네티스_통합_아키텍처.md",
     "projects/wfms/프로젝트_중심_시설물_조사_시스템_장단점_비교_정리.md",
     "Platform",
     "framework/flutter/Flutter_기본_앱_구조_main_dart_분석_및_시각화_images_01.md",
