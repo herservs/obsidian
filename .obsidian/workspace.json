@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "languages/programming/Java/hub.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hub"
+              "title": "index"
             }
           }
         ]
@@ -190,9 +190,9 @@
   },
   "active": "fcf808389096d356",
   "lastOpenFiles": [
+    "languages/programming/Java/hub.md",
     "index.md",
     "languages/programming/Java/자바_메모리_구조_정리.md",
-    "languages/programming/Java/hub.md",
     "tools/git/Git_기본_초기_설정_설치_후_필수_환경_구성.md",
     "was/웹_애플리케이션과_자동_쓰레드_처리.md",
     "web",
