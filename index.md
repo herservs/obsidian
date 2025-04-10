@@ -20,6 +20,7 @@ Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인�
 - AndroidStudio
   - [Android_프로젝트_Gradle_설정_파일_정리](ide/AndroidStudio/Android_프로젝트_Gradle_설정_파일_정리.md)
   - [Android_프로젝트_Java_17_적용을_위한_Gradle_설정_정리](ide/AndroidStudio/Android_프로젝트_Java_17_적용을_위한_Gradle_설정_정리.md)
+  - [Android_프로젝트_Java_17_적용을_위한_Gradle_설정_정리](ide/AndroidStudio/Android_프로젝트_Java_17_적용을_위한_Gradle_설정_정리.md)
 
 ---
 

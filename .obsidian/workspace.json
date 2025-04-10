@@ -170,9 +170,9 @@
   },
   "active": "abd8e78936a3ed73",
   "lastOpenFiles": [
-    "languages/programming/Java/languages_programming_java_개념허브.md",
-    "index.md",
     "ide/AndroidStudio/Android_프로젝트_Java_17_적용을_위한_Gradle_설정_정리.md",
+    "index.md",
+    "languages/programming/Java/languages_programming_java_개념허브.md",
     "languages/programming/Java/자바_메모리_구조_정리.md",
     "Platform/container/Docker와_컨테이너.md",
     "vault-export/ide/AndroidStudio/Android_프로젝트_Gradle_설정_파일_정리.md",
