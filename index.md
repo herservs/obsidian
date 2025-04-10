@@ -2,7 +2,7 @@
 title: Obsidian Index
 layout: default
 ---
-# 📚 Obsidian Index(5)
+# 📚 Obsidian Index(05)
 
 Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인덱스 문서입니다.  
 각 항목은 해당 폴더의 대표 문서(`index`)로 연결됩니다.

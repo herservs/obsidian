@@ -190,11 +190,11 @@
   },
   "active": "bc671af8c0006045",
   "lastOpenFiles": [
-    "tools/git/Git_기본_초기_설정_설치_후_필수_환경_구성.md",
     "languages/programming/Java/hub.md",
+    "index.md",
+    "tools/git/Git_기본_초기_설정_설치_후_필수_환경_구성.md",
     "languages/programming/Java/자바_쓰레드와_메모리_공유.md",
     "languages/programming/Java/자바_메모리_구조_정리.md",
-    "index.md",
     "was/웹_애플리케이션과_자동_쓰레드_처리.md",
     "web",
     "was",
