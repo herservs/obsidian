@@ -2,7 +2,7 @@
 title: Obsidian Index
 layout: default
 ---
-# 📚 Obsidian Index(1)
+# 📚 Obsidian Index(2)
 
 Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인덱스 문서입니다.  
 각 항목은 해당 폴더의 대표 문서(`index.md`)로 연결됩니다.
@@ -19,13 +19,13 @@ Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인�
 
 * AndroidStudio
   * [Android_프로젝트_Gradle_설정_파일_정리](ide/AndroidStudio/Android_프로젝트_Gradle_설정_파일_정리.md)
-  * [[ide/AndroidStudio/Android_프로젝트_Java_17_적용을_위한_Gradle_설정_정리|Android_프로젝트_Java_17_적용을_위한_Gradle_설정_정리]]
+  * [Android_프로젝트_Java_17_적용을_위한_Gradle_설정_정리](ide/AndroidStudio/Android_프로젝트_Java_17_적용을_위한_Gradle_설정_정리)
   
 
 ---
 
 ## 🧬 Languages
-- [[languages/programming/Java/hub|hub]]
+- [hub](anguages/programming/Java/hub)
 
 ### 📄 Markup & Stylesheet
 - (내용 없음)
