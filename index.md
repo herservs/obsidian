@@ -25,10 +25,10 @@ Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인�
 ---
 
 ## 🧬 Languages
-- [index](languages/programming/Java/hub)
+
 
 ### 📄 Markup & Stylesheet
-- (내용 없음)
+
 
 ### 💻 Programming Languages
 
