@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "projects/india_edoc/임시_GLOVIS e-Doc 기능 정리 - 메뉴_기능별 구조.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "임시_GLOVIS e-Doc 기능 정리 - 메뉴_기능별 구조"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 200
   },
   "right": {
     "id": "f88fc949d05dee57",
@@ -170,10 +170,19 @@
   },
   "active": "fcf808389096d356",
   "lastOpenFiles": [
-    "languages/programming/Java/쓰레드_vs_멀티코어.md",
+    "projects/india_edoc/임시_GLOVIS e-Doc 시스템 구성도 - SAP 연동 전자결재 구조.md",
+    "projects/india_edoc/임시_GLOVIS e-Doc 기능 정리 - 메뉴_기능별 구조.md",
+    "projects/india_edoc/임시_E-Doc ↔ SAP EAI Interface 정리.md",
+    "projects/india_edoc/임시_e-Doc_시스템_아키텍처_및_사용자_업무_플로우.md",
+    "projects/india_edoc/사용자_시나리오_정리.md",
+    "projects/india_edoc/사용자별_전자결재_시스템_흐름 정리.md",
+    "projects/india_edoc/주요개념_인도권역_통합_eDoc_시스템개발.md",
     "languages/programming/Java/hub.md",
     "languages/programming/Java/쓰레드는_병렬처리_단위인가.md",
+    "languages/programming/embedded/펌웨어의_스테이트머신과_쓰레드.md",
+    "projects/india_edoc",
     "index.md",
+    "languages/programming/Java/쓰레드_vs_멀티코어.md",
     "languages/programming/Java/자바_쓰레드와_메모리_공유.md",
     "languages/programming/Java/자바_메모리_구조_정리.md",
     "Arcitecture/hub.md",
@@ -190,27 +199,18 @@
     "projects/wfms/상수도시설물통합관리시스템_개념정리.md",
     "Arcitecture/CICD_쿠버네티스_통합_아키텍처.md",
     "Arcitecture",
-    "projects/wfms/프로젝트_중심_시나리오시스템_장단점.md",
-    "projects/wfms/프로젝트_중심_시나리오시스템_설계.md",
-    "ide/AndroidStudio/Android_프로젝트_Java_17_적용을_위한_Gradle_설정_정리.md",
-    "was/웹_애플리케이션과_자동_쓰레드_처리.md",
-    "tools/git/Git_기본_초기_설정_설치_후_필수_환경_구성.md",
     "web",
     "was",
     "Pasted image 20250410165717.png",
-    "projects/wfms/상수도시설물통합관리시스템_대시보드.md",
     "projects/wfms/images/images_01_02.png",
     "projects/wfms/images/images_01_01.png",
     "projects/wfms/images",
-    "projects/wfms/index.md",
     "Pasted image 20250410134545.png",
-    "languages/programming/embedded/펌웨어의_스테이트머신과_쓰레드.md",
     "vault-export/tools/git",
     "vault-export/tools",
     "vault-export/projects/wfms",
     "vault-export/projects",
     "vault-export/framework/flutter/images/images_01_01.png",
-    "vault-export/framework/flutter/images",
     "Untitled.canvas"
   ]
 }
