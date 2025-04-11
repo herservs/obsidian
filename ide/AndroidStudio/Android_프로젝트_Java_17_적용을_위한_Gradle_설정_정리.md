@@ -13,14 +13,14 @@ Java 17을 Android 프로젝트에 적용하기 위해
 
 ## 2. 수정 항목 요약표
 
-| 설정 파일 | 수정 항목 | 수정 이유 |
-|------------|------------|------------|
-| `gradle-wrapper.properties` | `distributionUrl=https\://services.gradle.org/distributions/gradle-7.6-all.zip` | Gradle 7.6 이상만 Java 17을 지원하기 때문에 필수 |
-| 루트 `build.gradle` | `classpath 'com.android.tools.build:gradle:7.4.2'` | Android Gradle Plugin 7.0 이상이 Java 17과 호환 |
-| `app/build.gradle` | `compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }` | Java 17로 컴파일 및 실행 타겟을 맞추기 위해 |
-| `app/build.gradle` | `kotlinOptions { jvmTarget = '17' }` | Kotlin에서 생성된 코드가 Java 17 JVM을 타겟으로 하도록 설정 |
-| Android Studio 설정 | JDK 경로: `Temurin 17` 또는 `corretto-17` 선택 | 빌드에 실제 사용될 JDK를 명시적으로 지정 |
-| Project Structure > Language level | (가능한 경우) `17 - Sealed types ...` 선택 | Java 17 문법 사용 가능하도록 설정<br>※ Android Studio에서 preview 또는 unsupported로 표시될 수 있음 |
+| 설정 파일                              | 수정 항목                                                                                                       | 수정 이유                                                                         |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| `gradle-wrapper.properties`        | `distributionUrl=https\://services.gradle.org/distributions/gradle-7.6-all.zip`                             | Gradle 7.6 이상만 Java 17을 지원하기 때문에 필수                                           |
+| 루트 `build.gradle`                  | `classpath 'com.android.tools.build:gradle:7.4.2'`                                                          | Android Gradle Plugin 7.0 이상이 Java 17과 호환                                     |
+| `app/build.gradle`                 | `compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }` | Java 17로 컴파일 및 실행 타겟을 맞추기 위해                                                  |
+| `app/build.gradle`                 | `kotlinOptions { jvmTarget = '17' }`                                                                        | Kotlin에서 생성된 코드가 Java 17 JVM을 타겟으로 하도록 설정                                     |
+| Android Studio 설정                  | JDK 경로: `Temurin 17` 또는 `corretto-17` 선택                                                                    | 빌드에 실제 사용될 JDK를 명시적으로 지정                                                      |
+| Project Structure > Language level | (가능한 경우) `17 - Sealed types ...` 선택                                                                         | Java 17 문법 사용 가능하도록 설정<br>※ Android Studio에서 preview 또는 unsupported로 표시될 수 있음 |
 
 ---
 
