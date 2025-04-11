@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Platform/container/Docker와_컨테이너.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker와_컨테이너"
+              "title": "index"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "fcf808389096d356",
   "lastOpenFiles": [
+    "Platform/container/Docker와_컨테이너.md",
     "index.md",
     "languages/programming/Java/hub.md",
     "languages/programming/Java/자바_메모리_구조_정리.md",
@@ -203,7 +204,6 @@
     "languages/programming/embedded/펌웨어의_스테이트머신과_쓰레드.md",
     "ide/AndroidStudio/Android_프로젝트_Gradle_설정_파일_정리.md",
     "ide/AndroidStudio/Android_프로젝트_Java_17_적용을_위한_Gradle_설정_정리 2.md",
-    "ide/AndroidStudio/Android_프로젝트_Java_17_적용을_위한_Gradle_설정_정리 1.md",
     "vault-export/tools/git",
     "vault-export/tools",
     "vault-export/projects/wfms",
