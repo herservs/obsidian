@@ -2,7 +2,7 @@
 title: Obsidian Index
 layout: default
 ---
-# 📚 Obsidian Index(1)
+# 📚 Obsidian Index(2)
 
 Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인덱스 문서입니다.  
 각 항목은 해당 폴더의 대표 문서(`index`)로 연결됩니다.
@@ -40,13 +40,10 @@ Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인�
 - [펌웨어의 스테이트머신과 쓰레드](languages/programming/embedded/펌웨어의_스테이트머신과_쓰레드)
 
 ---
-
 ## 🗂 Projects
 
 - [상수도시설물통합관리시스템_개념정리](projects/wfms/상수도시설물통합관리시스템_개념정리)
-  - [프로젝트_중심_시나리오_설계](projects/wfms/프로젝트_중심_시나리오시스템_설계|프로젝트_중심_시나리오시스템_설계)
-- [CICD + 쿠버네티스 통합 아키텍처](Arcitecture/CICD_쿠버네티스_통합_아키텍처.md)
-- [Jenkins, Nexus, Docker, Kubernetes 비교 정리](Arcitecture/Jenkins_Nexus_Docker_Kubernetes_비교_정리.md)
+  - [프로젝트_중심_시나리오_설계](projects/wfms/프로젝트_중심_시나리오시스템_설계)
 
 ---
 
@@ -63,6 +60,11 @@ Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인�
 
 #### 🐳 Container
 - [Docker와 컨테이너](Platform/container/Docker와_컨테이너)
+
+
+## Architecture
+
+- [index](Arcitecture/hub)
 
 ---
 
