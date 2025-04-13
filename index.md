@@ -44,6 +44,8 @@ Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인�
 
 - [상수도시설물통합관리시스템_개념정리](projects/wfms/상수도시설물통합관리시스템_개념정리)
   - [프로젝트_중심_시나리오_설계](projects/wfms/프로젝트_중심_시나리오시스템_설계)
+- [주요개념_인도권역_통합_eDoc_시스템개발](projects/india_edoc/주요개념_인도권역_통합_eDoc_시스템개발)
+  - [SAP와_e-Doc_시스템의_관계_개념_정리](projects/india_edoc/SAP와_e-Doc_시스템의_관계_개념_정리)
 
 ---
 
