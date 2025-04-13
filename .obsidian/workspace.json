@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/hub.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hub"
+              "title": "index"
             }
           }
         ]
@@ -170,9 +170,9 @@
   },
   "active": "07969a04b3bcdd05",
   "lastOpenFiles": [
+    "projects/hub.md",
     "index.md",
     "projects/india_edoc/hub.md",
-    "projects/hub.md",
     "projects/wfms/hub.md",
     "projects/india_edoc/주요개념_인도권역_통합_eDoc_시스템개발.md",
     "templates/템플릿_내용.md",
