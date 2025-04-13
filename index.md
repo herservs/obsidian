@@ -1,7 +1,9 @@
 ---
-title: Obsidian Index
+title: 허브
 layout: default
 ---
+📅 2025-04-13 23:55
+
 # 📚 Obsidian Index(2)
 
 Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인덱스 문서입니다.  
