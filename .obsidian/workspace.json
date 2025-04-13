@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "projects/india_edoc/주요개념_인도권역_통합_eDoc_시스템개발.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "주요개념_인도권역_통합_eDoc_시스템개발"
             }
           }
         ]
@@ -168,22 +168,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48c69a350eb484da",
+  "active": "07969a04b3bcdd05",
   "lastOpenFiles": [
+    "projects/india_edoc/hub.md",
+    "projects/wfms/hub.md",
+    "templates/템플릿_내용.md",
+    "templates/템플릿_허브.md",
+    "projects/india_edoc/주요개념_인도권역_통합_eDoc_시스템개발.md",
+    "projects/wfms/프로젝트_중심_시나리오시스템_장단점.md",
+    "index.md",
     "Untitled.md",
     "framework/hub.md",
     "framework/flutter/hub.md",
     "메타인지/메타인지_20250411.md",
     "메타인지/hub.md",
-    "templates/템플릿_허브.md",
-    "projects/wfms/hub.md",
-    "index.md",
     "templates",
     "projects/india_edoc/전자결재시스템_코드_아키텍처_컨셉_정리.md",
-    "projects/india_edoc/hub.md",
     "projects/hub.md",
     "projects/wfms/상수도시설물통합관리시스템_대시보드.md",
-    "projects/india_edoc/주요개념_인도권역_통합_eDoc_시스템개발.md",
     "projects/india_edoc/사용자별_전자결재_시스템_흐름_정리.md",
     "projects/india_edoc/사용자_시나리오_정리.md",
     "projects/india_edoc/SAP와_e-Doc_시스템의_관계_개념_정리.md",
@@ -196,8 +198,6 @@
     "languages/programming/Java/쓰레드는_병렬처리_단위인가.md",
     "languages/programming/embedded/펌웨어의_스테이트머신과_쓰레드.md",
     "projects/india_edoc",
-    "languages/programming/Java/쓰레드_vs_멀티코어.md",
-    "languages/programming/Java/자바_쓰레드와_메모리_공유.md",
     "메타인지",
     "Arcitecture",
     "web",
