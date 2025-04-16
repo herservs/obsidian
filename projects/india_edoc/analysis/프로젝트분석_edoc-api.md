@@ -61,14 +61,14 @@
 
 ## 🔄 추가 확인 내용 정리 결과
 
-| 항목 | 확인 결과 | 세부 내용 |
-|------|-----------|-----------|
-| **Spring MVC 사용 여부** | ❌ 사용하지 않음 | `web.xml` 확인 결과 Spring DispatcherServlet 없음. @Controller 등 전혀 없음&#8203;:contentReference[oaicite:0]{index=0} |
-| **Jersey 단독 사용 여부** | ✅ 단독 사용 확정 | `@Path`, `@POST` 등으로 구성된 REST API 구현 파일 확인&#8203;:contentReference[oaicite:1]{index=1} |
-| **Velocity 사용 위치** | ✅ 이메일 템플릿 전용 | `SendEmail.java`에서만 Velocity 사용. View 렌더링 목적이 아니라 메일용 템플릿 렌더링&#8203;:contentReference[oaicite:2]{index=2} |
-| **DI 방식 (의존성 주입)** | ❌ 수동 객체 생성 방식 | Impl 클래스 직접 생성 후 호출 (`new Impl()`) 방식 사용&#8203;:contentReference[oaicite:3]{index=3} |
-| **인터셉터/필터 구조** | ❌ 없음 | `web.xml` 내 filter 정의 없음, `ContainerRequestFilter` 등도 없음&#8203;:contentReference[oaicite:4]{index=4} |
-| **SAP 연동 상세 방식** | ✅ RFC 연동 확정 | `SAPDestManager`, `SAPUtil`, `SAPMassUtil` 분석 결과 SAP JCo로 Destination 설정 후 `JCoFunction.execute()` 방식 사용&#8203;:contentReference[oaicite:5]{index=5} |
+| 항목                   | 확인 결과         | 세부 내용                                                                                                                                                |
+| -------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Spring MVC 사용 여부** | ❌ 사용하지 않음     | `web.xml` 확인 결과 Spring DispatcherServlet 없음. @Controller 등 전혀 없음&#8203;:contentReference[oaicite:0]{index=0}                                         |
+| **Jersey 단독 사용 여부**  | ✅ 단독 사용 확정    | `@Path`, `@POST` 등으로 구성된 REST API 구현 파일 확인&#8203;:contentReference[oaicite:1]{index=1}                                                               |
+| **Velocity 사용 위치**   | ✅ 이메일 템플릿 전용  | `SendEmail.java`에서만 Velocity 사용. View 렌더링 목적이 아니라 메일용 템플릿 렌더링&#8203;:contentReference[oaicite:2]{index=2}                                            |
+| **DI 방식 (의존성 주입)**   | ❌ 수동 객체 생성 방식 | Impl 클래스 직접 생성 후 호출 (`new Impl()`) 방식 사용&#8203;:contentReference[oaicite:3]{index=3}                                                                 |
+| **인터셉터/필터 구조**       | ❌ 없음          | `web.xml` 내 filter 정의 없음, `ContainerRequestFilter` 등도 없음&#8203;:contentReference[oaicite:4]{index=4}                                                 |
+| **SAP 연동 상세 방식**     | ✅ RFC 연동 확정   | `SAPDestManager`, `SAPUtil`, `SAPMassUtil` 분석 결과 SAP JCo로 Destination 설정 후 `JCoFunction.execute()` 방식 사용&#8203;:contentReference[oaicite:5]{index=5} |
 
 ---
 
