@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07969a04b3bcdd05",
+            "id": "1e28da06b6c6be1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/india_edoc/hub.md",
+                "file": "projects/india_edoc/analysis/Edoc_EAI_전환_테이블_설계.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hub"
+              "title": "Edoc_EAI_전환_테이블_설계"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -168,48 +168,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07969a04b3bcdd05",
+  "active": "1e28da06b6c6be1d",
   "lastOpenFiles": [
+    "projects/india_edoc/analysis/hub.md",
+    "projects/india_edoc/analysis/참고_시스템_용어사전.md",
+    "projects/india_edoc/analysis/Edoc_EAI_전환_테이블_설계.md",
+    "projects/india_edoc/analysis/참고_Staging_인터페이스.md",
+    "projects/india_edoc/hub.md",
     "projects/hub.md",
     "index.md",
-    "projects/india_edoc/hub.md",
-    "projects/wfms/hub.md",
-    "projects/india_edoc/주요개념_인도권역_통합_eDoc_시스템개발.md",
-    "templates/템플릿_내용.md",
-    "templates/템플릿_허브.md",
-    "projects/wfms/프로젝트_중심_시나리오시스템_장단점.md",
-    "Untitled.md",
-    "framework/hub.md",
-    "framework/flutter/hub.md",
-    "메타인지/메타인지_20250411.md",
-    "메타인지/hub.md",
-    "templates",
     "projects/india_edoc/전자결재시스템_코드_아키텍처_컨셉_정리.md",
-    "projects/wfms/상수도시설물통합관리시스템_대시보드.md",
-    "projects/india_edoc/사용자별_전자결재_시스템_흐름_정리.md",
-    "projects/india_edoc/사용자_시나리오_정리.md",
     "projects/india_edoc/SAP와_e-Doc_시스템의_관계_개념_정리.md",
-    "Arcitecture/hub.md",
-    "projects/india_edoc/임시_GLOVIS e-Doc 시스템 구성도 - SAP 연동 전자결재 구조.md",
-    "projects/india_edoc/임시_GLOVIS e-Doc 기능 정리 - 메뉴_기능별 구조.md",
+    "projects/india_edoc/주요개념_인도권역_통합_eDoc_시스템개발.md",
+    "projects/india_edoc/사용자별_전자결재_시스템_흐름_정리.md",
     "projects/india_edoc/임시_E-Doc ↔ SAP EAI Interface 정리.md",
     "projects/india_edoc/임시_e-Doc_시스템_아키텍처_및_사용자_업무_플로우.md",
-    "languages/programming/Java/hub.md",
-    "languages/programming/Java/쓰레드는_병렬처리_단위인가.md",
-    "languages/programming/embedded/펌웨어의_스테이트머신과_쓰레드.md",
+    "projects/india_edoc/임시_GLOVIS e-Doc 기능 정리 - 메뉴_기능별 구조.md",
+    "projects/india_edoc/임시_GLOVIS e-Doc 시스템 구성도 - SAP 연동 전자결재 구조.md",
+    "projects/india_edoc/사용자_시나리오_정리.md",
+    "languages/Markup & Stylesheet/markdown/마크다운_참고_링크용_추천_기호_목록.md",
+    "Untitled 1",
+    "Untitled",
+    "projects/india_edoc/analysis",
+    "tools/nexus/hub.md",
+    "tools/hub.md",
+    "templates/템플릿_내용.md",
+    "templates/템플릿_허브.md",
+    "tools/nexus/Nexus_Docker_기반_환경_구성.md",
+    "Platform/Docker와_Kubernetes_개념.md",
+    "tools/nexus",
+    "Platform/Docker와_유저랜드_개념.md",
+    "Platform/Docker와_컨테이너.md",
+    "Platform/Kubernetes",
+    "Platform/docker",
+    "money/애드포스트 수익화 - 네이버 광고 기반.md",
+    "money",
+    "templates",
     "projects/india_edoc",
     "메타인지",
-    "Arcitecture",
-    "web",
-    "was",
     "Pasted image 20250410165717.png",
     "projects/wfms/images/images_01_02.png",
     "projects/wfms/images/images_01_01.png",
-    "projects/wfms/images",
     "Pasted image 20250410134545.png",
-    "vault-export/tools/git",
-    "vault-export/tools",
-    "vault-export/projects/wfms",
     "vault-export/framework/flutter/images/images_01_01.png",
     "Untitled.canvas"
   ]

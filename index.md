@@ -59,7 +59,7 @@ Obsidian Vault의 전체 폴더 구조를 한눈에 보기 쉽게 정리한 인�
 - [Bare-metal 서버](Platform/Bare-metal_서버)
 
 #### 🐳 Container
-- [Docker와 컨테이너](Platform/container/Docker와_컨테이너)
+- [Docker와 컨테이너](Platform/Docker와_컨테이너.md)
 
 
 ## Architecture
