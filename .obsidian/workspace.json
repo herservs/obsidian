@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/india_edoc/analysis/Edoc_EAI_전환_테이블_설계.md",
+                "file": "projects/india_edoc/analysis/hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Edoc_EAI_전환_테이블_설계"
+              "title": "hub"
             }
           }
         ]
@@ -170,9 +170,10 @@
   },
   "active": "1e28da06b6c6be1d",
   "lastOpenFiles": [
+    "projects/india_edoc/analysis/Edoc_EAI_전환_테이블_설계.md",
+    "projects/india_edoc/analysis/프로젝트분석_edoc-api.md",
     "projects/india_edoc/analysis/hub.md",
     "projects/india_edoc/analysis/참고_시스템_용어사전.md",
-    "projects/india_edoc/analysis/Edoc_EAI_전환_테이블_설계.md",
     "projects/india_edoc/analysis/참고_Staging_인터페이스.md",
     "projects/india_edoc/hub.md",
     "projects/hub.md",
@@ -201,7 +202,6 @@
     "Platform/Docker와_컨테이너.md",
     "Platform/Kubernetes",
     "Platform/docker",
-    "money/애드포스트 수익화 - 네이버 광고 기반.md",
     "money",
     "templates",
     "projects/india_edoc",
