@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/india_edoc/analysis/SAP_HANA란.md",
+                "file": "projects/india_edoc/analysis/회계이론/전표(Journal Entry)의_개념.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAP_HANA란"
+              "title": "전표(Journal Entry)의_개념"
             }
           }
         ]
@@ -168,13 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48c69a350eb484da",
+  "active": "7df49f5f6c6d0cd5",
   "lastOpenFiles": [
+    "projects/india_edoc/analysis/주요개념_인도권역_통합_eDoc_시스템개발.md",
+    "projects/india_edoc/analysis/회계이론/전표(Journal Entry)의_개념.md",
+    "projects/india_edoc/analysis/temp/sapjco3.jar.md",
+    "projects/india_edoc/analysis/회계이론",
+    "projects/india_edoc/analysis/Untitled.md",
+    "projects/india_edoc/analysis/temp/Untitled.md",
+    "projects/india_edoc/analysis/Edoc_EAI_전환_테이블_설계.md",
+    "projects/india_edoc/analysis/SAP_HANA란.md",
     "projects/india_edoc/analysis/temp/SAP.md",
     "projects/india_edoc/analysis/temp/현대글로비스_회계_시스템과_e-Doc 연계 구조.md",
     "projects/india_edoc/analysis/temp/참고할_SAP_공식문서.md",
     "projects/india_edoc/analysis/참고_시스템_용어사전.md",
-    "projects/india_edoc/analysis/주요개념_인도권역_통합_eDoc_시스템개발.md",
     "projects/india_edoc/임시_e-Doc_시스템_아키텍처_및_사용자_업무_플로우.md",
     "projects/india_edoc/임시_E-Doc ↔ SAP EAI Interface 정리.md",
     "languages/programming/Java/자바_쓰레드와_메모리_공유.md",
@@ -182,9 +189,6 @@
     "projects/india_edoc/analysis/e-Doc_시스템_개발_및_배포환경_구성.md",
     "projects/india_edoc/analysis/SAP와_e-Doc_시스템의_관계_개념_정리.md",
     "projects/india_edoc/analysis/hub.md",
-    "projects/india_edoc/analysis/Untitled.md",
-    "projects/india_edoc/analysis/temp/sapjco3.jar.md",
-    "projects/india_edoc/analysis/SAP_HANA란.md",
     "projects/india_edoc/analysis/temp/SAP_RFC_Function_Module.md",
     "projects/india_edoc/analysis/temp/SAP_연동_흐름-전자결재_시스템에서_SAP_전표_처리.md",
     "projects/india_edoc/hub.md",
@@ -194,18 +198,14 @@
     "projects/india_edoc/design/hub.md",
     "projects/india_edoc/design/전자결재시스템_코드_아키텍처_컨셉_정리.md",
     "projects/india_edoc/analysis/사용자_시나리오_정리.md",
-    "projects/india_edoc/analysis/개발환경_구축_관련_이슈_및_향후_계획.md",
-    "projects/india_edoc/analysis/사용자별_전자결재_시스템_흐름_정리.md",
     "projects/india_edoc/implementation",
     "projects/india_edoc/design",
-    "development/web/Java_웹_뷰_템플릿_기술_비교_프론트_백_분리구조_전략.md",
     "development/common",
     "development/web",
     "development",
     "Untitled 1",
     "projects/india_edoc/analysis",
     "tools/nexus",
-    "Platform/Kubernetes",
     "Pasted image 20250410165717.png",
     "projects/wfms/images/images_01_02.png",
     "projects/wfms/images/images_01_01.png",
