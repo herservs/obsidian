@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/india_edoc/analysis/회계이론/재경_재무_회계부서.md",
+                "file": "projects/india_edoc/analysis/회계이론/총계정원장_General_Ledger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "재경_재무_회계부서"
+              "title": "총계정원장_General_Ledger"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "7df49f5f6c6d0cd5",
   "lastOpenFiles": [
-    "projects/india_edoc/analysis/회계이론/총계정원장_General_Ledger.md",
     "projects/india_edoc/analysis/회계이론/재경_재무_회계부서.md",
+    "projects/india_edoc/analysis/회계이론/총계정원장_General_Ledger.md",
     "projects/india_edoc/analysis/회계이론/재무마스터_Financial_Master_Data.md",
     "projects/india_edoc/work_report/일지_20250418.md",
     "projects/india_edoc/work_report/hub.md",
