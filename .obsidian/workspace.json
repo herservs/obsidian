@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "projects/india_edoc/work_report/일지_20250418.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "일지_20250418"
             }
           }
         ]
@@ -170,14 +170,14 @@
   },
   "active": "7df49f5f6c6d0cd5",
   "lastOpenFiles": [
-    "projects/india_edoc/업무정리/일지_20250418.md",
+    "index.md",
+    "projects/india_edoc/work_report/일지_20250418.md",
     "projects/india_edoc/analysis/Edoc_EAI_전환_테이블_설계.md",
     "projects/india_edoc/analysis/사용자_시나리오_정리.md",
     "projects/india_edoc/analysis/hub.md",
-    "projects/india_edoc/업무정리",
+    "projects/india_edoc/work_report",
     "projects/india_edoc/hub.md",
     "projects/hub.md",
-    "index.md",
     "projects/india_edoc/design/전표_처리_흐름도.md",
     "projects/india_edoc/analysis/회계이론/전표_Journal_Entry_의_개념.md",
     "projects/india_edoc/analysis/회계이론/재무마스터_Financial_Master_Data.md",
