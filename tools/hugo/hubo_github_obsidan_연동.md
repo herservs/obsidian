@@ -4,21 +4,21 @@ Pages + Obsidian 뷰어 구축
 
 ## ✅ 전체 작업 목록 정리 (작업 목적 + 개념 요약 포함)
 
-| 단계 | 작업 내용 | 목적 요약 / 개념 설명 | 상태 |
-|------|-----------|------------------------|------|
-| 1 | Chocolatey 설치 | Windows용 패키지 관리자 설치 | ⬜ |
-| 2 | Git 설치 | GitHub 연동 및 버전관리 도구 | ⬜ |
-| 3 | Hugo 설치 | 정적 사이트 생성기 도구 설치 | ⬜ |
-| 4 | 새 Hugo 사이트 생성 | Obsidian Vault를 담을 Hugo 프로젝트 생성 | ⬜ |
-| 5 | Hugo 테마 설치 (Book) | 문서형 UI 제공 Hugo 테마 | ⬜ |
-| 6 | `config.toml` 설정 | 사이트 정보, baseURL, 테마 설정 | ⬜ |
-| 7 | Obsidian 콘텐츠 복사 | `.md` 파일들을 `content/`로 이동 | ⬜ |
-| 8 | 내부 링크 점검 | `[[링크]]` 형식을 `[링크](./링크.md)`로 수정 | ⬜ |
-| 9 | 로컬 서버 실행 | 사이트를 브라우저로 테스트 (`localhost`) | ⬜ |
-| 10 | 사이트 빌드 (`hugo`) | HTML 정적 파일 생성 (`public/`) | ⬜ |
-| 11 | `.nojekyll` 파일 생성 | GitHub Pages에서 `_` 폴더 인식되도록 설정 | ⬜ |
-| 12 | GitHub Pages로 배포 | `public/` 폴더를 깃허브에 업로드 | ⬜ |
-| 13 | 최종 접속 확인 | `https://herservs.github.io/obsidian/` 확인 | ⬜ |
+| 단계  | 작업 내용             | 목적 요약 / 개념 설명                             | 상태  |
+| --- | ----------------- | ----------------------------------------- | --- |
+| 1   | Chocolatey 설치     | Windows용 패키지 관리자 설치                       | ⬜   |
+| 2   | Git 설치            | GitHub 연동 및 버전관리 도구                       | ⬜   |
+| 3   | Hugo 설치           | 정적 사이트 생성기 도구 설치                          | ⬜   |
+| 4   | 새 Hugo 사이트 생성     | Obsidian Vault를 담을 Hugo 프로젝트 생성           | ⬜   |
+| 5   | Hugo 테마 설치 (Book) | 문서형 UI 제공 Hugo 테마                         | ⬜   |
+| 6   | `config.toml` 설정  | 사이트 정보, baseURL, 테마 설정                    | ⬜   |
+| 7   | Obsidian 콘텐츠 복사   | `.md` 파일들을 `content/`로 이동                 | ⬜   |
+| 8   | 내부 링크 점검          | `[[링크]]` 형식을 `[링크](./링크.md)`로 수정          | ⬜   |
+| 9   | 로컬 서버 실행          | 사이트를 브라우저로 테스트 (`localhost`)              | ⬜   |
+| 10  | 사이트 빌드 (`hugo`)   | HTML 정적 파일 생성 (`public/`)                 | ⬜   |
+| 11  | `.nojekyll` 파일 생성 | GitHub Pages에서 `_` 폴더 인식되도록 설정            | ⬜   |
+| 12  | GitHub Pages로 배포  | `public/` 폴더를 깃허브에 업로드                    | ⬜   |
+| 13  | 최종 접속 확인          | `https://herservs.github.io/obsidian/` 확인 | ⬜   |
 
 ---
 
